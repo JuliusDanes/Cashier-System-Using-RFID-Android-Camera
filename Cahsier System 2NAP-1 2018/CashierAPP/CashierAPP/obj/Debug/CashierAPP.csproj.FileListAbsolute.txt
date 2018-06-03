@@ -1,0 +1,91 @@
+c:\users\nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CashierAPP.exe.config
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csprojResolveAssemblyReference.cache
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.Form1.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.Properties.Resources.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csproj.GenerateResource.Cache
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CashierAPP.exe
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CashierAPP.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.exe
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\obj\Debug\CashierAPP.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\KasirScan.exe
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\ProjectGUI.exe
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.Video.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\zxing.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\FlashControlV71.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\stdole.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\KasirScan.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\ProjectGUI.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.Video.xml
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\zxing.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\zxing.xml
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\AForge.xml
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CashierSimulation.exe
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\Animator.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\CashierAPP\CashierAPP\bin\Debug\CashierSimulation.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csprojResolveAssemblyReference.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.Form1.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.Properties.Resources.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csproj.GenerateResource.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csproj.CoreCompileInputs.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CashierAPP.exe.config
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CashierAPP.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CashierAPP.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CashierSimulation.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\KasirScan.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\ProjectGUI.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\Animator.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.Video.DirectShow.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.Video.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\zxing.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.Shared.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\FlashControlV71.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\ShockwaveFlashObjects.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\stdole.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\CashierSimulation.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\KasirScan.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\ProjectGUI.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.Video.DirectShow.xml
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.Video.xml
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\zxing.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\zxing.xml
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\bin\Debug\AForge.xml
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierAPP\CashierAPP\obj\Debug\CashierAPP.csproj.CopyComplete

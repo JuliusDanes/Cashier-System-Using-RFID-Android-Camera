@@ -1,0 +1,89 @@
+J:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+J:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+J:\CashierSimulation\CashierSimulation\bin\Debug\Bunifu_UI_v1.5.3.dll
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.cache
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CoreCompileInputs.cache
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CopyComplete
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+J:\CashierSimulation\CashierSimulation\bin\Debug\Animator.dll
+J:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddEmp.resources
+J:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+J:\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+T:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+T:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+T:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+T:\CashierSimulation\CashierSimulation\bin\Debug\Animator.dll
+T:\CashierSimulation\CashierSimulation\bin\Debug\Bunifu_UI_v1.5.3.dll
+T:\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csprojResolveAssemblyReference.cache
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.cache
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CoreCompileInputs.cache
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CopyComplete
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+T:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+F:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+F:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+F:\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+F:\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csprojResolveAssemblyReference.cache
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.cache
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+F:\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+F:\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+F:\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+F:\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+F:\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+F:\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.Cache
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.Cache
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+C:\Users\Nio\Documents\GABUNGAN\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\Animator.dll
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\Bunifu_UI_v1.5.3.dll
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csprojResolveAssemblyReference.cache
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.cache
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CoreCompileInputs.cache
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CopyComplete
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+T:\Project RS1\Project RS1\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe.config
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\bin\Debug\CashierSimulation.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\bin\Debug\MaterialSkin.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csprojResolveAssemblyReference.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Form1.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.Properties.Resources.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.ucAddUpdateDelEmp.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.GenerateResource.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CoreCompileInputs.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.csproj.CopyComplete
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\CashierSimulation\CashierSimulation\obj\Debug\CashierSimulation.pdb

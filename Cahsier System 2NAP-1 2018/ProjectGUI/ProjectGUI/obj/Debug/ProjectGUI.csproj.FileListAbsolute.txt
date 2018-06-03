@@ -1,0 +1,142 @@
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe.config
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csprojResolveAssemblyReference.cache
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.AdminForm.resources
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.Properties.Resources.resources
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.GenerateResource.Cache
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.exe
+c:\users\nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.pdb
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.addproform.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.searchproform.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.updateproform.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.reportproduct.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\FlashControlV71.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\stdole.dll
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.productdataform.resources
+C:\Users\Nio\documents\visual studio 2015\Projects\ProjectGUI\ProjectGUI\bin\Debug\MaterialSkin.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe.config
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.exe
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.pdb
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Shared.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\FlashControlV71.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ShockwaveFlashObjects.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\stdole.dll
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csprojResolveAssemblyReference.cache
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.AdminForm.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.productdataform.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.addproform.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.searchproform.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.updateproform.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.reportproduct.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.Properties.Resources.resources
+H:\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe.config
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CashierSimulation.exe
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\FlashControlV71.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\Animator.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\stdole.dll
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\CashierSimulation.pdb
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csprojResolveAssemblyReference.cache
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.AdminForm.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.productdataform.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.addproform.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.searchproform.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.updateproform.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.reportproduct.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.Properties.Resources.resources
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.GenerateResource.Cache
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.exe
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.pdb
+C:\Users\Nio\Documents\GABUNGAN\ProjectGUI\ProjectGUI\bin\Debug\MetroFramework.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe.config
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\ProjectGUI.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CashierSimulation.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\Animator.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\stdole.dll
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CashierSimulation.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CashierSimulation.exe.config
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csprojResolveAssemblyReference.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.AdminForm.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.productdataform.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.addproform.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.searchproform.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.updateproform.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.reportproduct.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.Properties.Resources.resources
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.GenerateResource.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.CoreCompileInputs.cache
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.csproj.CopyComplete
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\obj\Debug\ProjectGUI.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CashierAPP.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\KasirScan.exe
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\CashierAPP.pdb
+D:\Danes\CCIT-PNJ\Project\Q3\Project 2 Q3\Cahsier System 2NAP-1 2018\ProjectGUI\ProjectGUI\bin\Debug\KasirScan.pdb

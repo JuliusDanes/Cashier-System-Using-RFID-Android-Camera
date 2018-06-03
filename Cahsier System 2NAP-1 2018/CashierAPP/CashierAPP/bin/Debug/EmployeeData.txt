@@ -1,0 +1,10 @@
+E0001#Ana#Female#Purbalingga#11/04/1990#Cashier#Jl. Ganesha No. 10, Bandung, Jawa Barat#085323653214#Anaana#ana123
+E0002#Aji#Male#Pamulang#02/02/1988#Cashier#Jl. Hime-Hime, Fukushima Daichi, JR#08123271321#wibu#wibu
+E0003#Indiana Jones#Male#Amazon#22/03/1986#Cashier#Jl. Green-Canyon, #08847280428#Jones#jones123
+E0004#Casino Warkop#Male#DIY#03/04/1976#Cashier#Jl. Istana Merdeka#085265698234#warkopdki#warkop123
+E0005#Bruce Lee#Male#DIY#02/02/1988#Cashier#Jl. Meikarta 69, Krawang Merdeka#085265660954#Lee#Lee123
+E0006#Dono Wantah#Female#Pamulang#29/05/1986#Cashier#Jl. Nusakambangan, Brebes Jawa Tengah#08847829361#Dono#Dono123
+E0007#Indro Mastah#Male#Pamulang#29/06/1986#Cashier#Jl. Salah Dua, Komdis 5#088472801620#Indro#Indro123
+E0008#Abu Bakar#Male#Purbalingga#29/05/1986#Cashier#Jl. Kelapa Dua, Depok, Jawa Barat#08147280428#Abuba#Abuba123
+E0009#Mastah Imba#Female#Pamulang#29/05/1986#Cashier#Jl. Kelapa Tiga No. 3, Wakanda, a#08891880428#Mastah#Mastah123
+E0010#Abi Bakar#Male#Purbalingga#29/05/1986#Cashier#Jl. Salah Satu, Decision No. 1,#08529880428#Abiba#Abiba123
